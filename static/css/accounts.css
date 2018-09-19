@@ -1,0 +1,20 @@
+body {
+  background-image: url(../img/pinkdust.png);
+}
+
+.logo {
+      font-family: 'Merienda', cursive;
+}
+
+.logo a {
+  color: rgba(0,0,0,.9);
+}
+
+.logo a:hover,
+.logo a:active {
+  text-decoration: none;
+}
+
+.card-title {
+    color: #0c5460;
+}

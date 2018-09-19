@@ -1,0 +1,1 @@
+web: gunicorn webBoard.webBoard.wsgi --log-file -
